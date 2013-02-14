@@ -24,6 +24,30 @@
 		0A44F12C16CA9FA30044C821 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A44F10416CA9FA20044C821 /* Foundation.framework */; };
 		0A44F13416CA9FA30044C821 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A44F13216CA9FA30044C821 /* InfoPlist.strings */; };
 		0A44F13716CA9FA30044C821 /* SoundboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A44F13616CA9FA30044C821 /* SoundboardTests.m */; };
+		0A6867D316CD6B4800F43E7B /* lookgood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867D216CD6B4800F43E7B /* lookgood.mp3 */; };
+		0A6867D516CD6D7400F43E7B /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A6867D416CD6D7400F43E7B /* AudioToolbox.framework */; };
+		0A6867D716CD707200F43E7B /* meremortals.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867D616CD707200F43E7B /* meremortals.mp3 */; };
+		0A6867D916CD71A900F43E7B /* wolverinepurr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867D816CD71A900F43E7B /* wolverinepurr.mp3 */; };
+		0A6867DB16CD734E00F43E7B /* ilovescotch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867DA16CD734E00F43E7B /* ilovescotch.mp3 */; };
+		0A6867E016CD742100F43E7B /* cannonball.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867DC16CD742100F43E7B /* cannonball.mp3 */; };
+		0A6867E116CD742100F43E7B /* stayclassy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867DD16CD742100F43E7B /* stayclassy.mp3 */; };
+		0A6867E216CD742100F43E7B /* bankloan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867DE16CD742100F43E7B /* bankloan.mp3 */; };
+		0A6867E316CD742100F43E7B /* thearsonist.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867DF16CD742100F43E7B /* thearsonist.mp3 */; };
+		0A6867E816CD753400F43E7B /* payingattention.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867E416CD753400F43E7B /* payingattention.mp3 */; };
+		0A6867E916CD753400F43E7B /* beardofzeus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867E516CD753400F43E7B /* beardofzeus.mp3 */; };
+		0A6867EA16CD753400F43E7B /* iampolite.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867E616CD753400F43E7B /* iampolite.mp3 */; };
+		0A6867EB16CD753400F43E7B /* whammy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867E716CD753400F43E7B /* whammy.mp3 */; };
+		0A6867EF16CD76B700F43E7B /* realpanther.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867EC16CD76B700F43E7B /* realpanther.mp3 */; };
+		0A6867F016CD76B700F43E7B /* nopantsdance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867ED16CD76B700F43E7B /* nopantsdance.mp3 */; };
+		0A6867F116CD76B700F43E7B /* yellingabout.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867EE16CD76B700F43E7B /* yellingabout.mp3 */; };
+		0A6867F916CD782600F43E7B /* piratehooker.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867F216CD782600F43E7B /* piratehooker.mp3 */; };
+		0A6867FA16CD782600F43E7B /* trident.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867F316CD782600F43E7B /* trident.mp3 */; };
+		0A6867FB16CD782600F43E7B /* escalated.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867F416CD782600F43E7B /* escalated.mp3 */; };
+		0A6867FC16CD782600F43E7B /* glasscase.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867F516CD782600F43E7B /* glasscase.mp3 */; };
+		0A6867FD16CD782600F43E7B /* massiveerection.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867F616CD782600F43E7B /* massiveerection.mp3 */; };
+		0A6867FE16CD782600F43E7B /* thatsmell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6867F716CD782600F43E7B /* thatsmell.mp3 */; };
+		0A68680516CD7BBB00F43E7B /* iPhoneIcon_Big-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A68680416CD7BBB00F43E7B /* iPhoneIcon_Big-1.png */; };
+		0A68680716CD7BE500F43E7B /* anchorman_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A68680616CD7BE500F43E7B /* anchorman_new.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +84,30 @@
 		0A44F13316CA9FA30044C821 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0A44F13516CA9FA30044C821 /* SoundboardTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SoundboardTests.h; sourceTree = "<group>"; };
 		0A44F13616CA9FA30044C821 /* SoundboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SoundboardTests.m; sourceTree = "<group>"; };
+		0A6867D216CD6B4800F43E7B /* lookgood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = lookgood.mp3; path = ../../../../../../Downloads/soundboard_stuff/lookgood.mp3; sourceTree = "<group>"; };
+		0A6867D416CD6D7400F43E7B /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		0A6867D616CD707200F43E7B /* meremortals.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = meremortals.mp3; path = ../../../../../../Downloads/soundboard_stuff/meremortals.mp3; sourceTree = "<group>"; };
+		0A6867D816CD71A900F43E7B /* wolverinepurr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wolverinepurr.mp3; path = ../../../../../../Downloads/soundboard_stuff/wolverinepurr.mp3; sourceTree = "<group>"; };
+		0A6867DA16CD734E00F43E7B /* ilovescotch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ilovescotch.mp3; path = ../../../../../../Downloads/soundboard_stuff/ilovescotch.mp3; sourceTree = "<group>"; };
+		0A6867DC16CD742100F43E7B /* cannonball.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cannonball.mp3; path = ../../../../../../Downloads/soundboard_stuff/cannonball.mp3; sourceTree = "<group>"; };
+		0A6867DD16CD742100F43E7B /* stayclassy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = stayclassy.mp3; path = ../../../../../../Downloads/soundboard_stuff/stayclassy.mp3; sourceTree = "<group>"; };
+		0A6867DE16CD742100F43E7B /* bankloan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bankloan.mp3; path = ../../../../../../Downloads/soundboard_stuff/bankloan.mp3; sourceTree = "<group>"; };
+		0A6867DF16CD742100F43E7B /* thearsonist.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thearsonist.mp3; path = ../../../../../../Downloads/soundboard_stuff/thearsonist.mp3; sourceTree = "<group>"; };
+		0A6867E416CD753400F43E7B /* payingattention.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = payingattention.mp3; path = ../../../../../../Downloads/soundboard_stuff/payingattention.mp3; sourceTree = "<group>"; };
+		0A6867E516CD753400F43E7B /* beardofzeus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = beardofzeus.mp3; path = ../../../../../../Downloads/soundboard_stuff/beardofzeus.mp3; sourceTree = "<group>"; };
+		0A6867E616CD753400F43E7B /* iampolite.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = iampolite.mp3; path = ../../../../../../Downloads/soundboard_stuff/iampolite.mp3; sourceTree = "<group>"; };
+		0A6867E716CD753400F43E7B /* whammy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whammy.mp3; path = ../../../../../../Downloads/soundboard_stuff/whammy.mp3; sourceTree = "<group>"; };
+		0A6867EC16CD76B700F43E7B /* realpanther.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = realpanther.mp3; path = ../../../../../../Downloads/soundboard_stuff/realpanther.mp3; sourceTree = "<group>"; };
+		0A6867ED16CD76B700F43E7B /* nopantsdance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = nopantsdance.mp3; path = ../../../../../../Downloads/soundboard_stuff/nopantsdance.mp3; sourceTree = "<group>"; };
+		0A6867EE16CD76B700F43E7B /* yellingabout.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yellingabout.mp3; path = ../../../../../../Downloads/soundboard_stuff/yellingabout.mp3; sourceTree = "<group>"; };
+		0A6867F216CD782600F43E7B /* piratehooker.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = piratehooker.mp3; path = ../../../../../../Downloads/soundboard_stuff/piratehooker.mp3; sourceTree = "<group>"; };
+		0A6867F316CD782600F43E7B /* trident.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = trident.mp3; path = ../../../../../../Downloads/soundboard_stuff/trident.mp3; sourceTree = "<group>"; };
+		0A6867F416CD782600F43E7B /* escalated.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = escalated.mp3; path = ../../../../../../Downloads/soundboard_stuff/escalated.mp3; sourceTree = "<group>"; };
+		0A6867F516CD782600F43E7B /* glasscase.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = glasscase.mp3; path = ../../../../../../Downloads/soundboard_stuff/glasscase.mp3; sourceTree = "<group>"; };
+		0A6867F616CD782600F43E7B /* massiveerection.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = massiveerection.mp3; path = ../../../../../../Downloads/soundboard_stuff/massiveerection.mp3; sourceTree = "<group>"; };
+		0A6867F716CD782600F43E7B /* thatsmell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thatsmell.mp3; path = ../../../../../../Downloads/soundboard_stuff/thatsmell.mp3; sourceTree = "<group>"; };
+		0A68680416CD7BBB00F43E7B /* iPhoneIcon_Big-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhoneIcon_Big-1.png"; sourceTree = "<group>"; };
+		0A68680616CD7BE500F43E7B /* anchorman_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = anchorman_new.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +115,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A6867D516CD6D7400F43E7B /* AudioToolbox.framework in Frameworks */,
 				0A44F10316CA9FA20044C821 /* UIKit.framework in Frameworks */,
 				0A44F10516CA9FA20044C821 /* Foundation.framework in Frameworks */,
 				0A44F10716CA9FA20044C821 /* CoreGraphics.framework in Frameworks */,
@@ -89,6 +138,9 @@
 		0A44F0F616CA9FA20044C821 = {
 			isa = PBXGroup;
 			children = (
+				0A68680616CD7BE500F43E7B /* anchorman_new.png */,
+				0A68680416CD7BBB00F43E7B /* iPhoneIcon_Big-1.png */,
+				0A6867D416CD6D7400F43E7B /* AudioToolbox.framework */,
 				0A44F10816CA9FA20044C821 /* Soundboard */,
 				0A44F12F16CA9FA30044C821 /* SoundboardTests */,
 				0A44F10116CA9FA20044C821 /* Frameworks */,
@@ -133,6 +185,27 @@
 		0A44F10916CA9FA20044C821 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0A6867F216CD782600F43E7B /* piratehooker.mp3 */,
+				0A6867F316CD782600F43E7B /* trident.mp3 */,
+				0A6867F416CD782600F43E7B /* escalated.mp3 */,
+				0A6867F516CD782600F43E7B /* glasscase.mp3 */,
+				0A6867F616CD782600F43E7B /* massiveerection.mp3 */,
+				0A6867F716CD782600F43E7B /* thatsmell.mp3 */,
+				0A6867EC16CD76B700F43E7B /* realpanther.mp3 */,
+				0A6867ED16CD76B700F43E7B /* nopantsdance.mp3 */,
+				0A6867EE16CD76B700F43E7B /* yellingabout.mp3 */,
+				0A6867E416CD753400F43E7B /* payingattention.mp3 */,
+				0A6867E516CD753400F43E7B /* beardofzeus.mp3 */,
+				0A6867E616CD753400F43E7B /* iampolite.mp3 */,
+				0A6867E716CD753400F43E7B /* whammy.mp3 */,
+				0A6867DC16CD742100F43E7B /* cannonball.mp3 */,
+				0A6867DD16CD742100F43E7B /* stayclassy.mp3 */,
+				0A6867DE16CD742100F43E7B /* bankloan.mp3 */,
+				0A6867DF16CD742100F43E7B /* thearsonist.mp3 */,
+				0A6867DA16CD734E00F43E7B /* ilovescotch.mp3 */,
+				0A6867D816CD71A900F43E7B /* wolverinepurr.mp3 */,
+				0A6867D616CD707200F43E7B /* meremortals.mp3 */,
+				0A6867D216CD6B4800F43E7B /* lookgood.mp3 */,
 				0A44F10A16CA9FA20044C821 /* Soundboard-Info.plist */,
 				0A44F10B16CA9FA20044C821 /* InfoPlist.strings */,
 				0A44F10E16CA9FA20044C821 /* main.m */,
@@ -240,6 +313,29 @@
 				0A44F11916CA9FA20044C821 /* Default-568h@2x.png in Resources */,
 				0A44F11F16CA9FA20044C821 /* ViewController_iPhone.xib in Resources */,
 				0A44F12216CA9FA20044C821 /* ViewController_iPad.xib in Resources */,
+				0A6867D316CD6B4800F43E7B /* lookgood.mp3 in Resources */,
+				0A6867D716CD707200F43E7B /* meremortals.mp3 in Resources */,
+				0A6867D916CD71A900F43E7B /* wolverinepurr.mp3 in Resources */,
+				0A6867DB16CD734E00F43E7B /* ilovescotch.mp3 in Resources */,
+				0A6867E016CD742100F43E7B /* cannonball.mp3 in Resources */,
+				0A6867E116CD742100F43E7B /* stayclassy.mp3 in Resources */,
+				0A6867E216CD742100F43E7B /* bankloan.mp3 in Resources */,
+				0A6867E316CD742100F43E7B /* thearsonist.mp3 in Resources */,
+				0A6867E816CD753400F43E7B /* payingattention.mp3 in Resources */,
+				0A6867E916CD753400F43E7B /* beardofzeus.mp3 in Resources */,
+				0A6867EA16CD753400F43E7B /* iampolite.mp3 in Resources */,
+				0A6867EB16CD753400F43E7B /* whammy.mp3 in Resources */,
+				0A6867EF16CD76B700F43E7B /* realpanther.mp3 in Resources */,
+				0A6867F016CD76B700F43E7B /* nopantsdance.mp3 in Resources */,
+				0A6867F116CD76B700F43E7B /* yellingabout.mp3 in Resources */,
+				0A6867F916CD782600F43E7B /* piratehooker.mp3 in Resources */,
+				0A6867FA16CD782600F43E7B /* trident.mp3 in Resources */,
+				0A6867FB16CD782600F43E7B /* escalated.mp3 in Resources */,
+				0A6867FC16CD782600F43E7B /* glasscase.mp3 in Resources */,
+				0A6867FD16CD782600F43E7B /* massiveerection.mp3 in Resources */,
+				0A6867FE16CD782600F43E7B /* thatsmell.mp3 in Resources */,
+				0A68680516CD7BBB00F43E7B /* iPhoneIcon_Big-1.png in Resources */,
+				0A68680716CD7BE500F43E7B /* anchorman_new.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +563,7 @@
 				0A44F13C16CA9FA30044C821 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0A44F13D16CA9FA30044C821 /* Build configuration list for PBXNativeTarget "SoundboardTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +572,7 @@
 				0A44F13F16CA9FA30044C821 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
